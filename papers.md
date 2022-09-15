@@ -4,6 +4,8 @@ This section lists scientific and industrial papers about ML operalization since
 
 ## 2022
 1. **[Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems](https://ieeexplore.ieee.org/document/9787703)** <br>
+2. **[Beyond MLOps: The Lifecycle of Machine Learning-based Solutions](https://aisel.aisnet.org/amcis2022/sig_adit/sig_adit/9/)** <br>
+This paper takes a broader organizational perspective on MLOps and identifies ML-based solution lifecycle as consisting of subordinate cycles of ML Technology, ML Organization, and ML Users.
 
 ## 2021
 
